@@ -31,3 +31,28 @@ print(p.LpStatus[status])   # The solution status
   
 # Printing the final solution
 print(p.value(x11), p.value(x12), p.value(x21), p.value(x22), p.value(Lp_prob.objective))
+
+## This code is to solve problem 5 of the first HW asisgnment
+import pulp as p
+Lp_prob = p.LpProblem('Problem', p.LpMaximize)
+
+# Create problem Variables 
+x = p.LpVariable("x", lowBound = 0, cat = 'Continuous')   # Create a variable x >= 0
+y = p.LpVariable("y", lowBound = 0, cat = 'Continuous')   # Create a variable x >= 0
+z = p.LpVariable("z", lowBound = 0, cat = 'Continuous')   # Create a variable x >= 0
+
+# Objective Function
+Lp_prob += 15 * x + 2 * y + z  
+
+# Constraints:
+Lp_prob += x <= 10
+Lp_prob += x + y <= 17
+Lp_prob += 2*x + 3*z <= 25
+Lp_prob += y + z >= 11
+
+status = Lp_prob.solve()   # Solver
+
+print(p.LpStatus[status])   # The solution status
+
+# Printing the final solution
+print(p.value(x), p.value(y), p.value(z), p.value(Lp_prob.objective))
