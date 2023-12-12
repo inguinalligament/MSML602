@@ -1,0 +1,110 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+J1YxK,tI}v	Basic	MSML601	"<div><img src=""paste-98e532446f0a6028726f60765338f09640a2b520.png""></div>"	"<div><img src=""paste-3c93a4291e7f8bcecf9bed1fa2a209f7d38e4d14.png""></div>
+<div>&nbsp;<img src=""paste-5156997503513603492dcf3432ad4552883d2f3a.png""></div>
+<div>&nbsp;</div>
+<div>Answer: The question is wrong. <span style=""color:#FA0000"">Probability
+doesn't exist on an infinite scale.&nbsp;</span></div>"	Day1
+I2xJfTO*6:	Basic	MSML601	What are the following<br>1) a finite sample space S<br>2) an infinite sample space S<br>3) a countable sample space S<br>4) an uncountable sample space S&nbsp;	"<div><img src=""paste-0a7cc4ba51373a2f913506fc25fcf42e2671f871.png""></div>
+<div><div><img src=""paste-8a3ce52e07579634da35cb5da9abf70f5bdfd1f5.png""></div></div>
+<div>&nbsp;</div>
+<div><span style=""text-decoration-line: underline;"">infinite: </span>&nbsp;a set is infinite if it is not finite</div>
+<div>&nbsp;</div>
+<div><span style=""text-decoration-line: underline;"">countable: </span>a set is
+called ""countable"" or ""countably infinite"" or
+""denumerable"" if it has the same </div>
+<div><img src=""paste-6b89323c63d29e08e6ed3ff9180ffda94e4317cf.png""></div><div><div><span style=""text-decoration-line: underline;"">uncountable:</span> a set is uncountable if
+it is not countable.</div></div><div><br></div>"	Day1
+qb!=Ou;U+e	Basic	MSML601	What is cardinality?	"<div><span style=""text-decoration-line: underline;"">Cardinality</span>:&nbsp; Two sets, A and B, are said to have the same
+cardinality iff they have an equal number of </div>
+<div>elements. It's the same as saying there is a bijection from A to B.
+Bijection is 1 to 1 (injective) and onto (surjective - there exists an input
+for every output).</div>
+<div>&nbsp;<img src=""paste-3a887281cfc9a1718da7c09157cdb2009e3b2ece.png""></div>"	Day1
+iGdt@vCmNm	Basic	MSML601	"<div><img src=""paste-a99b420c2062aa7c1fd11f7fc8a59e2b32053eb4.png""></div>"	"<img src=""paste-a9ded5dbbc4e39622c55c55b6ef7d40e1167f683.jpg"">"	Day1
+gT|]P:HW@,	Basic	MSML601	Define two events being disjoint	"<div><img src=""paste-7790ab7377c01aca11cb481a07231c3c4348554a.png""></div>
+<div><img src=""paste-9330ff3c4262dc6ab50b23cdc71df23b5159a83e.png""></div>"	Day1
+I,!Syr:.v8	Basic	MSML601	What is sigma algebra?	"<div><span style=""font-weight:bold"">&nbsp;</span><img src=""paste-7eb5f270f835a312a547edc3206bed78305a9c62.png""></div>
+<div>&nbsp;<img src=""paste-6769c2ea57d0950ed8aaf6ab3d298f0cfc3a568c.png""></div>
+<div><img src=""paste-8b0952395242c4dee70baa020dd1e8ea8ead8d57.png""></div>
+<div>&nbsp;<img src=""paste-07c2b5005e23ad9009b9d8f786d712f0f3ef89e8.png""></div>
+<div>&nbsp;<img src=""paste-78e3660fa0375b4c38d075923d901566708de992.png""></div>
+<div>&nbsp;<img src=""paste-043f96f4ee484f29c0537ff2975c42347eaf7534.png""></div>
+<div>&nbsp;</div>
+<div>examples:</div>
+<div>Ƒ = {,S}<img src=""paste-f95d74f268453dcca4d57604057eb9d9fc67f054.png""></div>
+<div>Ƒ = {all subsets of S}</div>"	Day1
+d~LDAvPf7F	Basic	MSML601	Define Probability	"<div><span style=""text-decoration-line: underline;"">Probability</span></div>
+<div><img src=""paste-45bf352d67735d2d8d2cef9dc7fb64e787042bf4.png""></div>
+<ol>
+<li>&nbsp;<img src=""paste-f9c7aa243e73d10d96e7356f5160b4bbbb6365d0.png""></li>
+<li>P(S) = 1</li>
+<li>&nbsp;<img src=""paste-5805a5a99a44944cd5e8e7fb9ae256152044d563.png""></li>
+</ol>
+<div>&nbsp;</div>
+<div>example:</div>
+<div>S = {0,1}</div>
+<div>P({0}) = 0.4</div>
+<div>P({1}) = 0.6</div>
+<div>&nbsp;</div>
+<div><span style=""color:#FA0000"">&nbsp;</span><img src=""paste-d44d1652a7d3a98baff5c068e8eec8dcdd214aaa.png""></div>"	Day1
+z`j@w~v~IY	Basic	MSML601	"<div><img src=""paste-9c1c540e9755747a58cdb26bafed472f210f4bab.png""></div>"	"<div><img src=""paste-3a884524e5dbae029b3a58e27386fcb4a0f549a7.png""></div>
+<div>the only number where the inifinite sum of it is equal to 0 is 0 itself</div>"	Day1
+t2TFR<C&MS	Basic	MSML601	What is a probability space?	"Consists of a sample space, an event space (sigma algebra), and a probability function.&nbsp;<br><br><img src=""paste-ac2437bd1ddc07d2caadcd471a45ee8970210039.jpg"">"	Day1
+cU)%@)Rt?s	Basic	MSML601	Give the 3 basic properties of probability	"<div>1)<img src=""paste-d861d297db81e8c710a2eb359b7d804fe9ad72fb.png""></div><div>2)&nbsp;<img src=""paste-8793b44dafa1b7d14222147e9eac69cb7c9fe7cc.png""></div><div>3) <img src=""paste-83c06ff6dfb2a09f56d7049780b13685c9113f48.png""></div>"	Day1
+fim>a_}&mt	Basic	MSML601	"<div>example:</div>
+<div>P(uses computer) = .4</div>
+<div>P(uses internet) = .9</div>
+<div>P(uses both) = .38</div>
+<div>P(uses neither) = ?</div>"	"<div>P(uses computer) = .4</div>
+<div>P(uses internet) = .9</div>
+<div>P(uses both) = .38</div>
+<div>P(uses neither) = ?</div>
+<div>&nbsp;</div>
+<div><img src=""paste-41b588b4d6da098cbc505fbac96c09c673ee20d2.png""></div>
+<div>P(A) = .4</div>
+<div>P(B) = .9</div>
+<div>&nbsp;</div>
+<div><img src=""paste-5ff9365de70ad6bce98a27f6c5c5414185cebc92.png""></div>
+<div><img src=""paste-398e99af208687902c8354fa79031beb8f1dd018.png""></div>
+<div><img src=""paste-63ba608c01c35a0cd5a7a7f24033c07d3061ea25.png""></div>"	Day1
+Nr|Vd[P2;o	Basic	MSML601	"<div><span style=""font-weight:bold"">Things I need to remember:</span></div>
+<div><img src=""paste-a815da02563013ba72d607a5053895efdc2be015.png""></div>
+<div><img src=""paste-02e7088eaff97902858337e981b105c693a3fe58.png""></div>
+<div><img src=""paste-4ffe424bf263a0cc81b85b0287bdfcce90c16f2b.png""></div>
+<div><img src=""paste-c5329954be9608888f641f57f41802b4e7fddcba.png""></div>
+<div><img src=""paste-5b5596480d1ae1dd205b3f56429a1bfeeb371970.png""></div>
+<div><img src=""paste-f756b52105beb5df2de579c591dd92df95de76e6.png""></div>
+<div>&nbsp;<img src=""paste-e276b60ce2355326713b43c0f89418a9ab25f8a8.png""></div>"	"<div><img src=""paste-b2c8bd8a58dedc05bbbe27c1ea07194a6475d6ba.png""></div>
+<div><img src=""paste-4b613b38a5b7bdb255c5499e6101032352428ab0.png""></div>
+<div><img src=""paste-4429c6c408d70ab9221f717be1d8142f2f60f142.png""></div>
+<div><img src=""paste-58820f30314607294decc516076a11adcbb8db9a.png""></div>
+<div>&nbsp;<img src=""paste-3f9a9a6de00030aaa2d8195d8e8961f33e70d611.png""></div>
+<div><img src=""paste-175c91409d27514c0cae23c1d0c51daed237cccc.png""><img src=""paste-6cee9509c64551f254bd4c66a23c05d79324969f.png""></div>"	Day1
+O$^TM3}3Z|	Basic	MSML602	What are the key techniques in Entity Resolution?	Matching and clustering records to correspond to the same real-world entities, handling data discrepancies.	
+tkbN.AP`d!	Basic	MSML602	How can Missing Data be handled?	Through strategies such as imputation methods, which can replace missing values with estimated ones.	
+6Mg+UoyX6	Basic	MSML602	What are the basic components of NLP?	Includes techniques like bag of words, TF-IDF, n-grams, and language models.	
+b:SI8&6<Yc	Basic	MSML602	What tools are commonly used in NLP?	Tools like NLTK and neural networks, focusing on word embeddings and models like word2vec.	
+"Ce#8O@:nw;"	Basic	MSML602	What are the principles of good Data Visualization?	Effective communication of complex ideas, distinguishing between good and bad visualizations.	
+"dEjsC#Kt(U"	Basic	MSML602	What types of Data Visualizations are there?	Includes line graphs, histograms, and small multiples among others.	
+fOw!b@Z$>N	Basic	MSML602	What are the primary focuses of Data Wrangling and Cleaning?	Transforming and preparing data for analysis, addressing different strategies for handling numerical and categorical data.	
+"QT}UB@I#a*"	Basic	MSML602	What is Entity Resolution in data science?	Techniques for identifying and linking records that refer to the same entity across different data sources.	
+MNw4k,YV-?	Basic	MSML602	How is Missing Data handled in data science?	Methods for dealing with incomplete datasets, such as imputation methods.	
+sD_p8/K`SP	Basic	MSML602	How do NoSQL Databases differ from SQL databases?	NoSQL databases are outlined for their features and use cases compared to traditional relational databases.	
+eZH,]PdfIo	Basic	MSML602	What does Data Preparation include?	ETL processes, web scraping, transformation, integration, and extraction.	
+M$n$OTs}U{	Basic	MSML602	What are the challenges in Data Management?	Handling large and diverse datasets, including complexities in entity resolution and data cleaning.	
+tzGzEdD5<L	Basic	MSML602	What are key aspects of Data Collection and Loading?	Methods and tools for collecting and loading data, including API querying and file parsing.	
+zO_]<m%o+@	Basic	MSML602	How are Regular Expressions used in data processing?	Techniques for utilizing regular expressions in data processing and manipulation.	
+v*c-c.b4$d	Basic	MSML602	What are the basic concepts in Statistics for Data Science?	Descriptive and inferential statistics, central tendency measures, variability, distributions, and hypothesis testing.	
+lvE&{m@f`e	Basic	MSML602	How do biases affect statistical analysis?	Biases can impact the interpretation and outcomes of statistical analysis, necessitating awareness and mitigation.	
+J<rRqL6hT5	Basic	MSML602	What are the fundamentals of Probability Theory?	Basics of probability, Bayes’ rule, and understanding random variables and distributions.	
+"II|$fcu#mS"	Basic	MSML602	What does Graph Theory encompass?	Understanding of undirected and directed graphs, bipartite graphs, and their representations in Python.	
+geT1]qPsi_	Basic	MSML602	What is the scope of Data Science?	Data Science involves the collection, processing, analysis, and interpretation of data to extract insights and inform decisions.	
+ieikXuPYa=	Basic	MSML602	What are the future trends in Data Science?	Data Science is evolving with new trends in technology, analysis methods, and the importance of ethical considerations.	
+H2F4NW|EM{	Basic	MSML602	What technologies are fundamental in Data Science?	Core technologies include Python, Jupyter Notebook, GitHub, and cloud computing containers like Docker.	
+fciOMk!_(	Basic	MSML602	Why are ethics, privacy, and reproducibility important in Data Science?	These factors ensure responsible use of data, protect individual privacy, and ensure the reliability and integrity of data science practices.	
+y6FCWiC!<f	Basic	MSML602	What is the data science life cycle?	1. Data Collection<br>2. Data Processing<br>3. Exploratory Analysis and Data Visualization<br>4. Analysis, Hypothesis Testing and Machine Learning<br>5. Insight and Policy Decison<br>	
